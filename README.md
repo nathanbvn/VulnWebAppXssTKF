@@ -60,6 +60,6 @@ Scénario
         Identifiant : admin
         Mot de passe : abc123
 
-    L'administrateur se rend sur le forum pour consulter les messages. En tant qu'attaquant (jouant le rôle de l'utilisateur), vous devez exploiter une vulnérabilité pour usurper l'identité de l'administrateur ou accéder à son compte sans connaître son mot de passe.
+  ```  L'administrateur se rend sur le forum pour consulter les messages. En tant qu'attaquant (jouant le rôle de l'utilisateur), vous devez exploiter une vulnérabilité pour usurper l'identité de l'administrateur ou accéder à son compte sans connaître son mot de passe.
 
 Explorez les fonctionnalités de l'application et les mécanismes de sécurité, pour identifier et exploiter les failles potentielles. Bonne chance !
