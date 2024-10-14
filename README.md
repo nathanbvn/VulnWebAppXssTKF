@@ -34,7 +34,7 @@ Une fois le serveur lancé, ouvrez votre navigateur et accédez à l'URL suivant
 
 ```
 
-http://localhost:8000/login
+http://localhost:8000/login.php
 ```
 
 ## Informations de connexion
